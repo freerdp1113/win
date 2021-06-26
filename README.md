@@ -1,0 +1,2 @@
+# win
+Setup for windows
